@@ -3,7 +3,7 @@ on: [push]
 
 env:
   AZURE_SUBSCRIPTION: b42709a0-62dc-4e62-b577-9cc18ac88591 # customize this
-  SPRING_CLOUD_SERVICE: azure-spring-cloud-medh2000 # customize this
+  SPRING_CLOUD_SERVICE: azure-spring-cloud-medh2000-test # customize this
   KEYVAULT: medh2000-kv # customize this
   # ==== APPS ====:
   API_GATEWAY: api-gateway
